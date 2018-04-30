@@ -8,4 +8,6 @@ class Dog
   end
 end
 
-def 
+def @this_dogs_name 
+  
+end 
